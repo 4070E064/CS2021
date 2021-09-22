@@ -1,0 +1,4 @@
+xxd -r -p hex.txt 轉16進位
+base64 -d base64.txt 轉base64
+find / -name secret 尋找sceret
+Permission denied 權限不足
