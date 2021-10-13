@@ -1,3 +1,21 @@
+CTF1
+ls
+cat 檔案 #打開檔案
+
+CTF2
+ls -A
+cat .hidden #打開隱藏膽案
+
+CTF3
+xxd -r -p 檔案 #在Linux上做16進位轉字串
+
+CTF4
+base64 -d 檔案 #在Linux上做base64 解碼
+
+CTF5
+find / -name 檔案 #查詢有(檔案)的檔案
+cat /opt/secret
+
 CTF6
 ps aux w | grep socat
 root 24408 0.0 0.0 24360 2888 pts/0 S Oct12 0:00 socat TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
