@@ -28,3 +28,8 @@ wget 網址
 ls -al 檔案 #查看權限
 Y讀W寫X執行
 chmod +x 檔案 #加權限
+./檔案
+
+CTF10
+chmod +x reverse
+strings reverse 
