@@ -1,0 +1,21 @@
+ps aux w | grep socat
+root 24408 0.0 0.0 24360 2888 pts/0 S Oct12 0:00 socat TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
+socat TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
+nc 127.0.0.1 port #連線
+
+網路服務==> netstat 參考網址https://www.jinnsblog.com/2020/12/linux-netstat-network-status.html
+netstat -ano
+a -->display all sockets (default: connected)，顯示所有監聽、非監聽的Socket連線，包含連接埠，因為資訊量多，所以常和別的參數或grep搭配使用
+n -->–numeric, show numerical addresses instead of trying to determine symbolic host, port or user names. 直接以數字形式顯示位址或協定，而不去解析主機、連接埠或使用者名稱。亦可以各別設定，指定不要解析的項目，
+      參數如下：
+        –numeric-hosts
+        –numeric-ports
+        –numeric-users
+0
+提示 : 80 Port ==> 怎模看網頁? 指令列? ==> curl
+curl 127.0.0.1 80 #開始網頁
+
+mkdir #建目錄
+wget 網址 #下載檔案
+tar zxvf 壓縮檔 #解壓縮
+cat 檔案 #打開檔案
