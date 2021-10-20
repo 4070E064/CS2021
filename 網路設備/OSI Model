@@ -1,3 +1,9 @@
 開放式系統互聯模型 Open System Interconnection Model
 
 第七層 應用層（application layer）
+第六層 表達層（presentation layer）
+第五層 會議層（session layer）
+第四層 傳輸層（transport layer）
+第三層 網路層（network layer）
+第二層 資料連結層（data link layer）
+第一層 實體層（physical layer）
