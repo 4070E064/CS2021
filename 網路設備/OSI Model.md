@@ -21,3 +21,5 @@ https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B
 
 第一層 實體層（physical layer）   Repeater中繼器 Hub集線器    https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E5%B1%82
 傳輸原始資料(Byte) ex:乙太網路 數據機 光纖 雙絞線
+
+![OSI](https://user-images.githubusercontent.com/43432054/138026129-d0019bc7-81c5-4571-96bf-14f7417ab9ac.png)
