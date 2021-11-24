@@ -2,7 +2,6 @@
 
 ## HTML檔案結構
 
-- 範例程式
 - [doctype連結](https://www.wibibi.com/info.php?tid=403)
 - HTML 文件的根元素`<html>` 元素 
 
@@ -19,7 +18,7 @@
 - 區塊格式
   - <pre> 元素 (預先格式化區塊)
   - <blockquote> 元素 (引述區塊)
-  - <hr> 元素 (水平線)
+  - <hr> 元素 (水平線)[水平線說明](http://www.slime.com.tw/teach/handbook/test7.html)
   - <br> 元素(換行)
 
 ```
