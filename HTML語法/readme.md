@@ -18,23 +18,26 @@
 - 區塊格式
   - <pre> 元素 (預先格式化區塊)
   - <blockquote> 元素 (引述區塊)
-  - <hr> 元素 (水平線)[水平線說明](http://www.slime.com.tw/teach/handbook/test7.html)
+  - <hr> 元素 (水平線)
   - <br> 元素(換行)
-
 ```
+- [水平線說明](http://www.slime.com.tw/teach/handbook/test7.html)
 
 
 ## 超連結
 ```
 - <a href="網址">文字表達</a>==>元素
-- [超連結說明](https://www.wibibi.com/info.php?tid=124)
 ```
+- [超連結說明](https://www.wibibi.com/info.php?tid=124)
+
 ## 圖片
 ```
 - 嵌入圖片==> <img> 元素
 - <img src="要插入的圖片 URL" alt="圖片替代文字" title="要顯示的文字" border="圖片邊框">
-- [img說明](https://www.wibibi.com/info.php?tid=223)
 ```
+- [img說明](https://www.wibibi.com/info.php?tid=223)
+
+
 ## 表格(Table)
 
 ```
